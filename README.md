@@ -20,7 +20,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/labryn/BreachBlock.git
+git clone https://github.com/DH-LStudios/BreachBlock.git
 Navigate to the Directory:
 
 bash
