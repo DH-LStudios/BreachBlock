@@ -4,7 +4,6 @@ Defend. Protect. Prevail.
 
 In an age where digital threats are evolving rapidly, BreachBlock stands as your formidable defense. It's not just about creating strong passwords, but about maintaining a dynamic response to threats. BreachBlock empowers users to instantly modify their credentials across a myriad of online platforms in the event of a cyber threat, effectively locking out unauthorized users.
 
-BreachBlock Logo
 
 Features
 Physical Key Authentication: For absolute assurance of user authenticity, BreachBlock incorporates physical key mechanisms like YubiKey and Titan Security Key. Dive deeper into the mechanics of these keys with this comprehensive guide.
@@ -20,13 +19,13 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/labryn/BreachBlock.git
+git clone https://github.com/DH-LStudios/BreachBlock.git
 Navigate to the Directory:
 
 bash
 Copy code
 cd BreachBlock
-Follow Installation Steps: (Your software's installation process here)
+Follow Installation Steps: SOON
 
 Contribution
 Interested in contributing to BreachBlock? We welcome all pull requests, bug fixes, and feature additions. Please read our CONTRIBUTING.md for guidelines.
